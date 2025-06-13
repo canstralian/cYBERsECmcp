@@ -1,3 +1,14 @@
+---
+license: apache-2.0
+title: CyberSec MCP Gradio Server
+sdk: gradio
+emoji: 💻
+colorFrom: red
+colorTo: gray
+short_description: This project implements a pentesting and purple team server
+sdk_version: 5.33.2
+---
+
 # CyberSec MCP Gradio Server
 
 This project implements a **penetration testing and purple team AI-agent-driven server** built with MCP and a Gradio UI frontend, designed to run as a **Hugging Face Space**.
