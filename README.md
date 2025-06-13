@@ -37,4 +37,3 @@ Add or replace functions in `app/tools.py` to implement real scanning, exploitat
 ---
 
 *Prepared for Cybersecurity AI agent development and purple teaming.*
-
