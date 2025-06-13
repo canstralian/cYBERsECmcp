@@ -1,0 +1,6 @@
+mcp-server
+gradio
+pandas
+numpy
+scapy
+python-nmap
